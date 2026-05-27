@@ -1,0 +1,173 @@
+{
+  "kpis": {
+    "7d": {
+      "monthly_active_users": 28340,
+      "mau_label": "Active Users (7d)",
+      "mau_change": 5.2,
+      "revenue": 19840,
+      "revenue_change": 3.8,
+      "retention_rate": 76.2,
+      "retention_change": 1.4,
+      "conversion_rate": 8.9,
+      "conversion_change": 0.6
+    },
+    "30d": {
+      "monthly_active_users": 124582,
+      "mau_label": "Monthly Active Users",
+      "mau_change": 18.3,
+      "revenue": 87220,
+      "revenue_change": 11.2,
+      "retention_rate": 74.5,
+      "retention_change": 14.0,
+      "conversion_rate": 8.3,
+      "conversion_change": 2.1
+    },
+    "90d": {
+      "monthly_active_users": 358400,
+      "mau_label": "Active Users (90d)",
+      "mau_change": 22.7,
+      "revenue": 264800,
+      "revenue_change": 17.4,
+      "retention_rate": 73.1,
+      "retention_change": 9.6,
+      "conversion_rate": 7.9,
+      "conversion_change": 1.8
+    },
+    "12m": {
+      "monthly_active_users": 1148000,
+      "mau_label": "Active Users (12m)",
+      "mau_change": 31.4,
+      "revenue": 1052000,
+      "revenue_change": 28.6,
+      "retention_rate": 71.4,
+      "retention_change": 6.2,
+      "conversion_rate": 7.6,
+      "conversion_change": 1.1
+    }
+  },
+  "user_growth": {
+    "7d": [
+      {"label": "Mon", "users": 3820, "prev": 3540},
+      {"label": "Tue", "users": 4210, "prev": 3890},
+      {"label": "Wed", "users": 4560, "prev": 4120},
+      {"label": "Thu", "users": 3980, "prev": 3700},
+      {"label": "Fri", "users": 4740, "prev": 4300},
+      {"label": "Sat", "users": 3640, "prev": 3280},
+      {"label": "Sun", "users": 3390, "prev": 3060}
+    ],
+    "30d": [
+      {"label": "Week 1", "users": 27400, "prev": 23100},
+      {"label": "Week 2", "users": 29800, "prev": 25400},
+      {"label": "Week 3", "users": 32200, "prev": 27900},
+      {"label": "Week 4", "users": 35180, "prev": 30600}
+    ],
+    "90d": [
+      {"label": "Oct", "users": 109800, "prev": 91600},
+      {"label": "Nov", "users": 118900, "prev": 99700},
+      {"label": "Dec", "users": 124582, "prev": 107200}
+    ],
+    "12m": [
+      {"label": "Jan", "users": 62400, "prev": 52100},
+      {"label": "Feb", "users": 69800, "prev": 58300},
+      {"label": "Mar", "users": 78200, "prev": 64700},
+      {"label": "Apr", "users": 84100, "prev": 70200},
+      {"label": "May", "users": 91300, "prev": 76800},
+      {"label": "Jun", "users": 98700, "prev": 82400},
+      {"label": "Jul", "users": 103200, "prev": 87100},
+      {"label": "Aug", "users": 109800, "prev": 91600},
+      {"label": "Sep", "users": 114500, "prev": 95200},
+      {"label": "Oct", "users": 118900, "prev": 99700},
+      {"label": "Nov", "users": 121700, "prev": 103400},
+      {"label": "Dec", "users": 124582, "prev": 107200}
+    ]
+  },
+  "feature_usage": {
+    "7d": [
+      {"feature": "Dashboard Query", "count": 284, "change": 12},
+      {"feature": "Export Data", "count": 192, "change": -8},
+      {"feature": "AI Insights", "count": 119, "change": 34},
+      {"feature": "Reports", "count": 71, "change": 5},
+      {"feature": "Alerts", "count": 45, "change": 21}
+    ],
+    "30d": [
+      {"feature": "Dashboard Query", "count": 1248, "change": 12},
+      {"feature": "Export Data", "count": 840, "change": -8},
+      {"feature": "AI Insights", "count": 521, "change": 34},
+      {"feature": "Reports", "count": 312, "change": 5},
+      {"feature": "Alerts", "count": 198, "change": 21}
+    ],
+    "90d": [
+      {"feature": "Dashboard Query", "count": 3870, "change": 19},
+      {"feature": "Export Data", "count": 2460, "change": -5},
+      {"feature": "AI Insights", "count": 1740, "change": 41},
+      {"feature": "Reports", "count": 980, "change": 9},
+      {"feature": "Alerts", "count": 620, "change": 28}
+    ],
+    "12m": [
+      {"feature": "Dashboard Query", "count": 14920, "change": 27},
+      {"feature": "Export Data", "count": 9640, "change": -3},
+      {"feature": "AI Insights", "count": 7280, "change": 58},
+      {"feature": "Reports", "count": 4120, "change": 14},
+      {"feature": "Alerts", "count": 2540, "change": 35}
+    ]
+  },
+  "retention_trend": {
+    "7d": [
+      {"label": "Mon", "retention": 78},
+      {"label": "Tue", "retention": 81},
+      {"label": "Wed", "retention": 79},
+      {"label": "Thu", "retention": 77},
+      {"label": "Fri", "retention": 80},
+      {"label": "Sat", "retention": 74},
+      {"label": "Sun", "retention": 76}
+    ],
+    "30d": [
+      {"label": "Week 1", "retention": 75},
+      {"label": "Week 2", "retention": 77},
+      {"label": "Week 3", "retention": 74},
+      {"label": "Week 4", "retention": 76}
+    ],
+    "90d": [
+      {"label": "W1-Oct", "retention": 72},
+      {"label": "W2-Oct", "retention": 74},
+      {"label": "W3-Oct", "retention": 71},
+      {"label": "W4-Oct", "retention": 73},
+      {"label": "W1-Nov", "retention": 75},
+      {"label": "W2-Nov", "retention": 77},
+      {"label": "W3-Nov", "retention": 74},
+      {"label": "W4-Nov", "retention": 76},
+      {"label": "W1-Dec", "retention": 73},
+      {"label": "W2-Dec", "retention": 76},
+      {"label": "W3-Dec", "retention": 74},
+      {"label": "W4-Dec", "retention": 74}
+    ],
+    "12m": [
+      {"label": "Jan", "retention": 68},
+      {"label": "Feb", "retention": 70},
+      {"label": "Mar", "retention": 73},
+      {"label": "Apr", "retention": 71},
+      {"label": "May", "retention": 74},
+      {"label": "Jun", "retention": 72},
+      {"label": "Jul", "retention": 75},
+      {"label": "Aug", "retention": 73},
+      {"label": "Sep", "retention": 71},
+      {"label": "Oct", "retention": 74},
+      {"label": "Nov", "retention": 77},
+      {"label": "Dec", "retention": 74}
+    ]
+  },
+  "traffic_sources": [
+    {"source": "Organic", "value": 42},
+    {"source": "Paid", "value": 28},
+    {"source": "Referral", "value": 18},
+    {"source": "Direct", "value": 12}
+  ],
+  "insights": [
+    "User retention increased by 14% over the past month",
+    "Export Data feature usage dropped 8% — investigate UX friction",
+    "Mobile users increased 23% since last quarter",
+    "Revenue grew fastest in March with a 22% spike",
+    "AI Insights feature adoption up 34% — highest growth segment",
+    "Paid traffic conversion outperforms organic by 2.1x"
+  ]
+}
