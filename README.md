@@ -2,7 +2,7 @@
 
 A full-stack product analytics dashboard for monitoring KPIs, user behaviour, and product performance in real time. Built with **React** and **Python FastAPI**, featuring interactive Chart.js visualisations and a responsive dark-mode UI.
 
-**[GitHub](https://github.com/chinweA/ai-product-analytics-dashboard) · [Live Demo](https://ai-product-analytics-dashboard.vercel.app)**
+**[GitHub](https://github.com/ChinweA/ai-product-analytics-dashboard)** · Live Demo coming after Vercel deployment
 
 ---
 
